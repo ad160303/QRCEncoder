@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCEncoder</string>
+    <string name="barcode_image">Barcode Image</string>
+</resources>
