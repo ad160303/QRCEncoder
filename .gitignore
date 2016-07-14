@@ -35,19 +35,10 @@ captures/
 # Intellij
 *.iml
 .idea/workspace.xml
-<<<<<<< HEAD
 /.idea/libraries
-=======
-.idea/libraries
->>>>>>> a047de0a8af2350ac1aea156bdcc1f7e10be23c7
 
 # Keystore files
 *.jks
 
-<<<<<<< HEAD
 .DS_Store
 /captures
-=======
-captures/
-DS_Store
->>>>>>> a047de0a8af2350ac1aea156bdcc1f7e10be23c7
